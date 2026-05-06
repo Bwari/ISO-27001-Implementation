@@ -1,8 +1,8 @@
 # ISO-27001-Implementation
 
 <h2>Status: In Progress</h2>
-Frameworks: ISO/IEC 27001:2022, Kenya Data Protection Act 2019
-Tools & Methods: Risk registers, Gap analysis, ISMS documentation, Control Mapping, POA&M
+<b>Frameworks: </b>ISO/IEC 27001:2022, Kenya Data Protection Act 2019
+<b>Tools & Methods: </b> Risk registers, Gap analysis, ISMS documentation, Control Mapping, POA&M
 
 This project involves the end-to-end implementation of an ISO/IEC 27001 Information Security Management System (ISMS) for a mock SACCO based in Kenya. The goal is to simulate a real-world compliance engagement, addressing the unique information security challenges faced by financial cooperatives operating in the Kenyan regulatory environment — including alignment with the Data Protection Act 2019 and CBK/SASRA guidelines.
 
